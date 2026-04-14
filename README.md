@@ -1,11 +1,11 @@
-KeenKeeper
-📖 Short Description
+##KeenKeeper
+##📖 Short Description
 KeenKeeper is a personal relationship management tool designed to act as your "personal shelf of meaningful connections." It empowers users to easily browse, tend to, and nurture the friendships and relationships that matter most, ensuring no meaningful connection falls out of touch.
 
-🚀 Live Demo
+##🚀 Live Demo
 Visit KeenKeeper Here
 
-🛠️ Technologies Used
+##🛠️ Technologies Used
 (Note: You can add or remove any specific libraries like Firebase, MongoDB, or state management tools you utilized)
 
 Frontend: React.js
@@ -16,7 +16,7 @@ Routing: React Router
 
 Deployment: Vercel
 
-✨ 3 Key Features
+##✨ 3 Key Features
 Interactive Relationship Dashboard: Get a quick overview of your network with real-time stats, including "Total Friends," connections that are "On Track," and those who "Need Attention."
 
 Seamless Friend Management: Easily add new friends to your shelf and keep track of your most important social circles in one dedicated, organized space.
