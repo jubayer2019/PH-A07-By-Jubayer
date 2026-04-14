@@ -1,36 +1,24 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+KeenKeeper
+📖 Short Description
+KeenKeeper is a personal relationship management tool designed to act as your "personal shelf of meaningful connections." It empowers users to easily browse, tend to, and nurture the friendships and relationships that matter most, ensuring no meaningful connection falls out of touch.
 
-## Getting Started
+🚀 Live Demo
+Visit KeenKeeper Here
 
-First, run the development server:
+🛠️ Technologies Used
+(Note: You can add or remove any specific libraries like Firebase, MongoDB, or state management tools you utilized)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Frontend: React.js
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Styling: Tailwind CSS (or plain CSS depending on your setup)
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+Routing: React Router
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Deployment: Vercel
 
-## Learn More
+✨ 3 Key Features
+Interactive Relationship Dashboard: Get a quick overview of your network with real-time stats, including "Total Friends," connections that are "On Track," and those who "Need Attention."
 
-To learn more about Next.js, take a look at the following resources:
+Seamless Friend Management: Easily add new friends to your shelf and keep track of your most important social circles in one dedicated, organized space.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Interaction Tracking & Timeline: Monitor your monthly interactions and view your connection history through dedicated "Timeline" and "Stats" views to ensure you are consistently nurturing your relationships.

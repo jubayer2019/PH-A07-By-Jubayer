@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Alex Johnson",
-    "picture": "https://picsum.photos/seed/alex/400/400",
+    "picture": "https://images.pexels.com/photos/28969612/pexels-photo-28969612.jpeg?auto=compress&cs=tinysrgb&w=400&h=400&dpr=1",
     "email": "alex.j@example.com",
     "days_since_contact": 15,
     "status": "overdue",
@@ -14,7 +14,7 @@
   {
     "id": 2,
     "name": "Sarah Miller",
-    "picture": "https://picsum.photos/seed/sarah/400/400",
+    "picture": "https://images.pexels.com/photos/20421607/pexels-photo-20421607.jpeg?auto=compress&cs=tinysrgb&w=400&h=400&dpr=1",
     "email": "sarah.m@example.com",
     "days_since_contact": 3,
     "status": "on-track",
@@ -26,7 +26,7 @@
   {
     "id": 3,
     "name": "Michael Chen",
-    "picture": "https://picsum.photos/seed/michael/400/400",
+    "picture": "https://images.pexels.com/photos/7651969/pexels-photo-7651969.jpeg?auto=compress&cs=tinysrgb&w=400&h=400&dpr=1",
     "email": "m.chen@example.com",
     "days_since_contact": 12,
     "status": "almost due",
@@ -38,7 +38,7 @@
   {
     "id": 4,
     "name": "Emily Davis",
-    "picture": "https://picsum.photos/seed/emily/400/400",
+    "picture": "https://images.pexels.com/photos/30055292/pexels-photo-30055292.jpeg?auto=compress&cs=tinysrgb&w=400&h=400&dpr=1",
     "email": "emily.d@example.com",
     "days_since_contact": 45,
     "status": "overdue",
@@ -50,7 +50,7 @@
   {
     "id": 5,
     "name": "David Wilson",
-    "picture": "https://picsum.photos/seed/david/400/400",
+    "picture": "https://images.pexels.com/photos/33345009/pexels-photo-33345009.jpeg?auto=compress&cs=tinysrgb&w=400&h=400&dpr=1",
     "email": "david.w@example.com",
     "days_since_contact": 5,
     "status": "on-track",
@@ -62,7 +62,7 @@
   {
     "id": 6,
     "name": "Jessica Taylor",
-    "picture": "https://picsum.photos/seed/jessica/400/400",
+    "picture": "https://images.pexels.com/photos/5826020/pexels-photo-5826020.jpeg?auto=compress&cs=tinysrgb&w=400&h=400&dpr=1",
     "email": "jess.t@example.com",
     "days_since_contact": 20,
     "status": "almost due",
@@ -74,7 +74,7 @@
   {
     "id": 7,
     "name": "Ryan Garcia",
-    "picture": "https://picsum.photos/seed/ryan/400/400",
+    "picture": "https://images.pexels.com/photos/8612475/pexels-photo-8612475.jpeg?auto=compress&cs=tinysrgb&w=400&h=400&dpr=1",
     "email": "ryan.g@example.com",
     "days_since_contact": 2,
     "status": "on-track",
@@ -86,7 +86,7 @@
   {
     "id": 8,
     "name": "Sophia Brown",
-    "picture": "https://picsum.photos/seed/sophia/400/400",
+    "picture": "https://images.pexels.com/photos/31480795/pexels-photo-31480795.jpeg?auto=compress&cs=tinysrgb&w=400&h=400&dpr=1",
     "email": "sophia.b@example.com",
     "days_since_contact": 60,
     "status": "overdue",
@@ -98,7 +98,7 @@
   {
     "id": 9,
     "name": "Jameson Ford",
-    "picture": "https://picsum.photos/seed/jameson/400/400",
+    "picture": "https://images.pexels.com/photos/32744531/pexels-photo-32744531.jpeg?auto=compress&cs=tinysrgb&w=400&h=400&dpr=1",
     "email": "jford.music@example.com",
     "days_since_contact": 28,
     "status": "almost due",
@@ -110,7 +110,7 @@
   {
     "id": 10,
     "name": "Aisha Patel",
-    "picture": "https://picsum.photos/seed/aisha/400/400",
+    "picture": "https://images.pexels.com/photos/8155037/pexels-photo-8155037.jpeg?auto=compress&cs=tinysrgb&w=400&h=400&dpr=1",
     "email": "apatel.foodie@example.com",
     "days_since_contact": 89,
     "status": "almost due",
