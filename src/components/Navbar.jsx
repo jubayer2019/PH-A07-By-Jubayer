@@ -19,8 +19,8 @@ export default function Navbar() {
   return (
     <div className="navbar bg-white border-b border-base-200 px-4 md:px-12 sticky top-0 z-50 h-20">
       <div className="flex-1">
-        <Link href="/" className="text-2xl font-black tracking-tighter text-[#2D4F3F]">
-          KeenKeeper
+        <Link href="/" className="text-2xl font-black tracking-tighter text-[#244D3F]">
+          <span className="text-[#1F2937]">Keen</span>Keeper
         </Link>
       </div>
 
@@ -36,7 +36,7 @@ export default function Navbar() {
                   className={cn(
                     "flex items-center gap-2 px-5 py-2.5 rounded-md transition-all text-sm font-medium",
                     isActive 
-                      ? "bg-[#2D4F3F] text-white shadow-md" 
+                      ? "bg-[#244D3F] text-white shadow-md" 
                       : "text-gray-600 hover:bg-gray-100"
                   )}
                 >
@@ -52,7 +52,7 @@ export default function Navbar() {
       {/* Mobile Menu Toggle */}
       <div className="flex-none md:hidden">
         <button 
-          className="btn btn-ghost btn-circle text-[#2D4F3F]"
+          className="btn btn-ghost btn-circle text-[#244D3F]"
           onClick={() => setIsOpen(!isOpen)}
         >
           {isOpen ? <X className="w-6 h-6" /> : <Menu className="w-6 h-6" />}
@@ -73,7 +73,7 @@ export default function Navbar() {
                     className={cn(
                       "flex items-center gap-3 px-4 py-3 rounded-md transition-all text-base font-medium",
                       isActive 
-                        ? "bg-[#2D4F3F] text-white" 
+                        ? "bg-[#244D3F] text-white" 
                         : "text-gray-600 hover:bg-gray-100"
                     )}
                   >

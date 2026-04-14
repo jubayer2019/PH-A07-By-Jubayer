@@ -1,8 +1,8 @@
-import { FaInstagram, FaFacebook, FaTwitter } from "react-icons/fa";
+import { FaInstagram, FaFacebook, FaGithub } from "react-icons/fa";
 
 export default function Footer() {
   return (
-    <footer className="bg-[#2D4F3F] text-white py-16 mt-20">
+    <footer className="bg-[#244D3F] text-white py-16 mt-20">
       <div className="container mx-auto px-4 text-center">
         <div className="text-6xl font-black tracking-tighter mb-6">
           KeenKeeper
@@ -14,14 +14,14 @@ export default function Footer() {
         <div className="mb-12">
           <h3 className="text-sm font-bold uppercase tracking-widest opacity-60 mb-6">Social Links</h3>
           <div className="flex justify-center gap-4">
-            <a className="w-10 h-10 rounded-full bg-white flex items-center justify-center text-[#2D4F3F] hover:bg-gray-200 transition-colors cursor-pointer">
+            <a className="w-10 h-10 rounded-full bg-white flex items-center justify-center text-[#244D3F] hover:bg-gray-200 transition-colors cursor-pointer">
               <FaInstagram className="w-5 h-5" />
             </a>
-            <a className="w-10 h-10 rounded-full bg-white flex items-center justify-center text-[#2D4F3F] hover:bg-gray-200 transition-colors cursor-pointer">
+            <a className="w-10 h-10 rounded-full bg-white flex items-center justify-center text-[#244D3F] hover:bg-gray-200 transition-colors cursor-pointer">
               <FaFacebook className="w-5 h-5" />
             </a>
-            <a className="w-10 h-10 rounded-full bg-white flex items-center justify-center text-[#2D4F3F] hover:bg-gray-200 transition-colors cursor-pointer">
-              <FaTwitter className="w-5 h-5" />
+            <a className="w-10 h-10 rounded-full bg-white flex items-center justify-center text-[#244D3F] hover:bg-gray-200 transition-colors cursor-pointer">
+              <FaGithub className="w-5 h-5" />
             </a>
           </div>
         </div>

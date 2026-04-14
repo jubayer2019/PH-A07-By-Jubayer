@@ -28,7 +28,7 @@ export default function FriendCard({ friend }) {
 
         <div className="flex flex-wrap justify-center gap-2 mb-6">
           {friend.tags.map((tag) => (
-            <div key={tag} className="px-2 py-0.5 bg-[#E8F5E9] text-[#2D4F3F] text-[10px] font-bold rounded uppercase tracking-wider">
+            <div key={tag} className="px-2 py-0.5 bg-[#E8F5E9] text-[#244D3F] text-[10px] font-bold rounded uppercase tracking-wider">
               {tag}
             </div>
           ))}

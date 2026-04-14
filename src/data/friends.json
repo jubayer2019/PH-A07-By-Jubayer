@@ -94,5 +94,29 @@
     "bio": "Best friend from high school. We've drifted a bit but I always value our deep conversations.",
     "goal": 30,
     "next_due_date": "2025-05-15"
+  },
+  {
+    "id": 9,
+    "name": "Jameson Ford",
+    "picture": "https://picsum.photos/seed/jameson/400/400",
+    "email": "jford.music@example.com",
+    "days_since_contact": 28,
+    "status": "almost due",
+    "tags": ["band", "creative"],
+    "bio": "Drummer from the old indie band days. We mostly share Spotify playlists now.",
+    "goal": 30,
+    "next_due_date": "2026-04-16"
+  },
+  {
+    "id": 10,
+    "name": "Aisha Patel",
+    "picture": "https://picsum.photos/seed/aisha/400/400",
+    "email": "apatel.foodie@example.com",
+    "days_since_contact": 89,
+    "status": "almost due",
+    "tags": ["foodie", "book club"],
+    "bio": "Met through a mutual friend's book club. We usually just end up talking about new restaurants.",
+    "goal": 90,
+    "next_due_date": "2026-04-15"
   }
 ]

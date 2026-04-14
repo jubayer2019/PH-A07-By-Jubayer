@@ -41,7 +41,7 @@ export default function Home() {
           <p className="text-xl opacity-60 max-w-2xl mx-auto mb-10 font-medium">
             Your personal shelf of meaningful connections. Browse, tend, and nurture the relationships that matter most.
           </p>
-          <button className="btn bg-[#2D4F3F] text-white hover:bg-[#1E352A] px-8 h-12 min-h-0 rounded-md gap-2 border-none">
+          <button className="btn bg-[#244D3F] text-white hover:bg-[#1E352A] px-8 h-12 min-h-0 rounded-md gap-2 border-none">
             <UserPlus className="w-5 h-5" />
             Add a Friend
           </button>
@@ -72,7 +72,7 @@ export default function Home() {
 
         {loading ? (
           <div className="flex flex-col items-center justify-center py-20 gap-4">
-            <span className="loading loading-spinner loading-lg text-[#2D4F3F]"></span>
+            <span className="loading loading-spinner loading-lg text-[#244D3F]"></span>
             <p className="text-lg font-medium opacity-40">Fetching your friends...</p>
           </div>
         ) : (
