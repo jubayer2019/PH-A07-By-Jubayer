@@ -1,24 +1,25 @@
-##KeenKeeper
-##📖 Short Description
-KeenKeeper is a personal relationship management tool designed to act as your "personal shelf of meaningful connections." It empowers users to easily browse, tend to, and nurture the friendships and relationships that matter most, ensuring no meaningful connection falls out of touch.
+content = """# 🤝 KeenKeeper
 
-##🚀 Live Demo
-Visit KeenKeeper Here
+> **Your personal shelf of meaningful connections. Browse, tend, and nurture the relationships that matter most.**
 
-##🛠️ Technologies Used
-(Note: You can add or remove any specific libraries like Firebase, MongoDB, or state management tools you utilized)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen.svg?style=for-the-badge)](https://ph-a07-by-jubayer.vercel.app/)
 
-Frontend: React.js
+## 📖 Short Description
+KeenKeeper is a personal relationship management tool designed to keep your meaningful connections close. It empowers users to easily browse, tend to, and nurture friendships and relationships, ensuring no important connection falls out of touch. Think of it as a personal CRM for your friends!
 
-Styling: Tailwind CSS (or plain CSS depending on your setup)
+## ✨ 3 Key Features
+1. **Interactive Relationship Dashboard:** Get a quick overview of your network with real-time stats, including *Total Friends*, connections that are *On Track*, and those who *Need Attention*.
+2. **Seamless Friend Management:** Easily add new friends to your shelf and keep track of your most important social circles in one dedicated, organized space.
+3. **Interaction Tracking & Timeline:** Monitor your monthly interactions and view your connection history through dedicated **Timeline** and **Stats** views to ensure you are consistently nurturing your relationships.
 
-Routing: React Router
+## 🛠️ Technologies Used
+* **Frontend:** React.js
+* **Styling:** Tailwind CSS
+* **Routing:** React Router DOM
+* **Deployment:** Vercel
 
-Deployment: Vercel
+---
 
-##✨ 3 Key Features
-Interactive Relationship Dashboard: Get a quick overview of your network with real-time stats, including "Total Friends," connections that are "On Track," and those who "Need Attention."
+## ⚙️ How to Run Locally
 
-Seamless Friend Management: Easily add new friends to your shelf and keep track of your most important social circles in one dedicated, organized space.
-
-Interaction Tracking & Timeline: Monitor your monthly interactions and view your connection history through dedicated "Timeline" and "Stats" views to ensure you are consistently nurturing your relationships.
+1. **Clone the repository:**
