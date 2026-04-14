@@ -140,7 +140,7 @@ export default function FriendDetail() {
                 transition={{ delay: i * 0.1 }}
                 className="bg-white p-10 rounded-xl shadow-sm border border-gray-100 flex flex-col items-center text-center"
               >
-                <div className="text-4xl font-black mb-2 text-[#1A1A1A]">{stat.value}</div>
+                <div className="text-2xl font-black mb-2 text-[#244D3F]">{stat.value}</div>
                 <div className="text-base opacity-50 font-medium">{stat.label}</div>
               </motion.div>
             ))}
@@ -155,7 +155,7 @@ export default function FriendDetail() {
           >
             <div className="card-body p-10">
               <div className="flex items-center justify-between mb-6">
-                <h2 className="text-2xl font-black text-[#1A1A1A]">Relationship Goal</h2>
+                <h2 className="text-2xl font-black text-[#244D3F]">Relationship Goal</h2>
                 <button className="btn btn-sm bg-gray-50 border-gray-200 text-gray-600 hover:bg-gray-100 px-4 rounded-md">
                   Edit
                 </button>
@@ -172,7 +172,7 @@ export default function FriendDetail() {
             className="card bg-white shadow-sm border border-gray-100 rounded-xl"
           >
             <div className="card-body p-10">
-              <h2 className="text-2xl font-black text-[#1A1A1A] mb-8">Quick Check-In</h2>
+              <h2 className="text-2xl font-black text-[#244D3F] mb-8">Quick Check-In</h2>
               <div className="grid grid-cols-1 sm:grid-cols-3 gap-6">
                 <button 
                   onClick={() => handleCheckIn("Call")}
