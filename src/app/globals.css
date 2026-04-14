@@ -1,2 +1,30 @@
 @import "tailwindcss";
 @plugin "daisyui";
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --color-primary: #2D4F3F;
+  --color-primary-content: #ffffff;
+}
+
+@layer base {
+  body {
+    @apply bg-[#F8F9FA] text-[#1A1A1A] min-h-screen font-sans;
+  }
+}
+
+.btn-primary {
+  @apply bg-[#2D4F3F] border-[#2D4F3F] text-white hover:bg-[#1E352A] hover:border-[#1E352A];
+}
+
+.badge-overdue {
+  @apply bg-[#FF5A5F] text-white border-none;
+}
+
+.badge-almost-due {
+  @apply bg-[#FFB400] text-white border-none;
+}
+
+.badge-on-track {
+  @apply bg-[#00A699] text-white border-none;
+}

@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Alex Johnson",
+    "picture": "https://picsum.photos/seed/alex/400/400",
+    "email": "alex.j@example.com",
+    "days_since_contact": 15,
+    "status": "overdue",
+    "tags": ["college", "close friend"],
+    "bio": "Met in university during a hackathon. We share a passion for open-source software and weekend hiking trips.",
+    "goal": 14,
+    "next_due_date": "2025-07-20"
+  },
+  {
+    "id": 2,
+    "name": "Sarah Miller",
+    "picture": "https://picsum.photos/seed/sarah/400/400",
+    "email": "sarah.m@example.com",
+    "days_since_contact": 3,
+    "status": "on-track",
+    "tags": ["work", "mentor"],
+    "bio": "Former colleague and mentor. Always has the best career advice and book recommendations.",
+    "goal": 30,
+    "next_due_date": "2025-08-10"
+  },
+  {
+    "id": 3,
+    "name": "Michael Chen",
+    "picture": "https://picsum.photos/seed/michael/400/400",
+    "email": "m.chen@example.com",
+    "days_since_contact": 12,
+    "status": "almost due",
+    "tags": ["gym", "hobby"],
+    "bio": "Gym buddy and fellow photography enthusiast. We usually meet up for early morning runs or photo walks.",
+    "goal": 14,
+    "next_due_date": "2025-07-15"
+  },
+  {
+    "id": 4,
+    "name": "Emily Davis",
+    "picture": "https://picsum.photos/seed/emily/400/400",
+    "email": "emily.d@example.com",
+    "days_since_contact": 45,
+    "status": "overdue",
+    "tags": ["childhood", "family friend"],
+    "bio": "Grew up in the same neighborhood. Even though we live in different cities now, we try to stay connected.",
+    "goal": 30,
+    "next_due_date": "2025-06-30"
+  },
+  {
+    "id": 5,
+    "name": "David Wilson",
+    "picture": "https://picsum.photos/seed/david/400/400",
+    "email": "david.w@example.com",
+    "days_since_contact": 5,
+    "status": "on-track",
+    "tags": ["neighbor", "gaming"],
+    "bio": "Next-door neighbor. We often play online games together on Friday nights.",
+    "goal": 7,
+    "next_due_date": "2025-07-15"
+  },
+  {
+    "id": 6,
+    "name": "Jessica Taylor",
+    "picture": "https://picsum.photos/seed/jessica/400/400",
+    "email": "jess.t@example.com",
+    "days_since_contact": 20,
+    "status": "almost due",
+    "tags": ["travel", "adventurer"],
+    "bio": "Met while backpacking in Southeast Asia. She has the most incredible stories from her travels.",
+    "goal": 21,
+    "next_due_date": "2025-07-18"
+  },
+  {
+    "id": 7,
+    "name": "Ryan Garcia",
+    "picture": "https://picsum.photos/seed/ryan/400/400",
+    "email": "ryan.g@example.com",
+    "days_since_contact": 2,
+    "status": "on-track",
+    "tags": ["music", "bandmate"],
+    "bio": "Guitarist in our local band. We practice every Tuesday and share a love for 90s rock.",
+    "goal": 7,
+    "next_due_date": "2025-07-12"
+  },
+  {
+    "id": 8,
+    "name": "Sophia Brown",
+    "picture": "https://picsum.photos/seed/sophia/400/400",
+    "email": "sophia.b@example.com",
+    "days_since_contact": 60,
+    "status": "overdue",
+    "tags": ["high school", "old friend"],
+    "bio": "Best friend from high school. We've drifted a bit but I always value our deep conversations.",
+    "goal": 30,
+    "next_due_date": "2025-05-15"
+  }
+]
