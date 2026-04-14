@@ -1,4 +1,4 @@
-content = """# 🤝 KeenKeeper
+## 🤝 KeenKeeper
 
 > **Your personal shelf of meaningful connections. Browse, tend, and nurture the relationships that matter most.**
 
@@ -13,13 +13,9 @@ KeenKeeper is a personal relationship management tool designed to keep your mean
 3. **Interaction Tracking & Timeline:** Monitor your monthly interactions and view your connection history through dedicated **Timeline** and **Stats** views to ensure you are consistently nurturing your relationships.
 
 ## 🛠️ Technologies Used
-* **Frontend:** React.js
+* **Frontend:** Next.js
 * **Styling:** Tailwind CSS
-* **Routing:** React Router DOM
+* **Routing:** App Router
 * **Deployment:** Vercel
 
 ---
-
-## ⚙️ How to Run Locally
-
-1. **Clone the repository:**
